@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 # Project
-chromedriver.exe
+scalping/chromedriver.exe
 .idea
